@@ -1,0 +1,28 @@
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 600;
+}
+
+#bg-c{
+    background-color: #E0C1A8;
+}
+
+h2{
+    color: #E6A87A;
+}
+
+h3{
+    color: #423b36;
+}
+small{
+    color: #6B3F1D;
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:  #E6A87A;
+}
